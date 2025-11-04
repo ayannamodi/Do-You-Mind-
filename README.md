@@ -1,23 +1,23 @@
 **Project Overview**
 
--Do You Mind? is a mission-driven website created by Ayanna Modi to promote neurodiversity and inclusive education for students with special needs. This project serves as a central hub for sharing resources, showcasing practical tools, and detailing real-world impact across global communities.
+**Do You Mind?** is a mission-driven website created by Ayanna Modi to promote **neurodiversity and inclusive education** for students with special needs.
 
--The platform is designed to be a fast, accessible, single-page application (SPA) focused on clarity and ease of use.
+**Viewing the Live Website (For All Visitors)**
 
-**Features**
+The finished, functional website is hosted directly via GitHub Pages.
 
--About Page: Introduces the creator and the mission based on extensive experience with special-needs students.
+**Please use this link to view the site:**
 
--Book & Resources: Features the book, "Innovative Minds: A Guide to STEM for Neurodivergent Students," along with custom-designed, 3D-printed sensory toys.
+**Live Website Link:** https://ayannamodi.github.io/Do-You-Mind-/dym.html
 
--Our Impact: Displays images and details of outreach efforts, including discussions with the Chief Minister of Rajasthan, India, and direct donations of resources to students.
+**Accessing the Source Code (For Developers)**
 
--AI Chatbot: A custom-coded AI assistant trained on neurodiversity principles and teaching strategies to provide instant support.
+This repository contains the complete source code for the project.
 
-**Technology Used**
+**Repository Link (for cloning or contributing):** https://github.com/ayannamodi/Do-You-Mind-.git
 
--HTML5 (dym.html): For content structure.
+**To Run Locally:**
 
--CSS3 (dym.css): Provides styling, color scheme, layout, and handles the CSS-only page navigation (using :target selectors).
+git clone https://github.com/ayannamodi/Do-You-Mind-.git
 
--JavaScript (dym.js): Powers the custom AI Chatbot functionality.
+Open the dym.html file directly in your browser.
