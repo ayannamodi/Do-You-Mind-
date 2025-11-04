@@ -1,5 +1,5 @@
 Project Overview
-  Do You Mind? is a mission-driven website created by [Your Name] to promote neurodiversity and inclusive education for students with special needs. This project serves as a central hub for sharing resources, showcasing practical tools, and detailing real-world impact across global communities.
+  Do You Mind? is a mission-driven website created by Ayanna Modi to promote neurodiversity and inclusive education for students with special needs. This project serves as a central hub for sharing resources, showcasing practical tools, and detailing real-world impact across global communities.
 
   The platform is designed to be a fast, accessible, single-page application (SPA) focused on clarity and ease of use.
 
